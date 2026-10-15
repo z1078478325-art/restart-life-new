@@ -1,0 +1,14 @@
+《张昱辰·重启人生》全新安装版 V2
+
+这是可安装到安卓桌面的 PWA 网页应用，不是 APK。
+为避免旧仓库安装状态混乱，推荐新建一个全新的 GitHub 仓库，例如 restart-life-new。
+1. 在 GitHub 新建 Public 仓库 restart-life-new。
+2. Add file → Upload files，上传解压后文件夹中的 5 个文件（不要上传 ZIP）。
+3. Commit changes。
+4. Settings → Pages → Deploy from a branch → main → /(root) → Save。
+5. 等部署成功，使用 Chrome 打开 https://你的用户名.github.io/restart-life-new/。
+6. 首次在线完整打开后，Chrome 菜单选择安装应用；如果仍显示“已安装”，请先截图，不要清除数据。
+7. 安装后开启飞行模式测试离线启动。
+
+记录只保存在当前浏览器的本地存储；更换浏览器或设备不会自动同步。卸载、清除网站数据可能导致记录丢失，请定期导出备份。
+饮酒安全：长期频繁饮酒者不要依赖软件自行快速停酒或减酒；先咨询医生评估戒断风险。出现抽搐、幻觉或意识混乱应立即急诊。

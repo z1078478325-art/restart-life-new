@@ -1,0 +1,26 @@
+{
+  "name": "张昱辰 · 重启人生计划",
+  "short_name": "重启人生",
+  "description": "90天生活重建：身体、精神、饮食与习惯记录",
+  "lang": "zh-CN",
+  "id": "./index.html",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101216",
+  "theme_color": "#101216",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
